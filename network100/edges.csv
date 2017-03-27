@@ -1,0 +1,312 @@
+from,to
+Azelaic acid,Docetaxel
+Azelaic acid,Paclitaxel
+Quinine,Aceclofenac
+Quinine,Bortezomib (PS-341)
+Quinine,Chlorothiazide
+Quinine,Cisplatin
+Quinine,Docetaxel
+Quinine,Diprophylline
+Quinine,Enoxacin
+Quinine,Etoposide
+Quinine,Fusidine
+Quinine,Lapatinib
+Quinine,Methyldopa
+Quinine,Minoxidil
+Quinine,Mitoxantrone Hydrochloride
+Quinine,Octreotide Acetate
+Quinine,Paclitaxel
+Quinine,Probenecid
+Quinine,Rifabutin
+Quinine,Sorafenib
+Quinine,Tretinoin
+Quinine,Vardenafil HCl Trihydrate
+Quinine,Vincristine
+Quinine,Vincristine
+Pimecrolimus,Aceclofenac
+Pimecrolimus,Bortezomib (PS-341)
+Pimecrolimus,Carmustine
+Pimecrolimus,Chlorothiazide
+Pimecrolimus,Cisplatin
+Pimecrolimus,Docetaxel
+Pimecrolimus,Enoxacin
+Pimecrolimus,Etidronate
+Pimecrolimus,Etoposide
+Pimecrolimus,Fusidine
+Pimecrolimus,Mitoxantrone Hydrochloride
+Pimecrolimus,Nepafenac
+Pimecrolimus,Paclitaxel
+Pimecrolimus,Probenecid
+Pimecrolimus,Rifabutin
+Pimecrolimus,Sorafenib
+Pimecrolimus,Tretinoin
+Pimecrolimus,Vincristine
+Nystatin (Fungicidin),Docetaxel
+Nystatin (Fungicidin),Rifabutin
+Carmustine,Bortezomib (PS-341)
+Carmustine,Docetaxel
+Carmustine,Paclitaxel
+Carmustine,Pimecrolimus
+Sodium Phenylbutyrate,Docetaxel
+Sodium Phenylbutyrate,Paclitaxel
+Sodium Phenylbutyrate,Probenecid
+Bortezomib (PS-341),Carmustine
+Bortezomib (PS-341),Chlorothiazide
+Bortezomib (PS-341),Docetaxel
+Bortezomib (PS-341),Vitamin D2
+Bortezomib (PS-341),Etoposide
+Bortezomib (PS-341),Fusidine
+Bortezomib (PS-341),Lapatinib
+Bortezomib (PS-341),Methyldopa
+Bortezomib (PS-341),Minoxidil
+Bortezomib (PS-341),Paclitaxel
+Bortezomib (PS-341),Pimecrolimus
+Bortezomib (PS-341),Pyrazinamide
+Bortezomib (PS-341),Quinine
+Bortezomib (PS-341),Rifabutin
+Bortezomib (PS-341),Sorafenib
+Bortezomib (PS-341),Tinidazole
+Bortezomib (PS-341),Tretinoin
+Bortezomib (PS-341),Vardenafil HCl Trihydrate
+Bortezomib (PS-341),Vincristine
+Tinidazole,Bortezomib (PS-341)
+Tinidazole,Fusidine
+Tinidazole,Rifabutin
+Vardenafil HCl Trihydrate,Bortezomib (PS-341)
+Vardenafil HCl Trihydrate,Chlorothiazide
+Vardenafil HCl Trihydrate,Fusidine
+Vardenafil HCl Trihydrate,Methyldopa
+Vardenafil HCl Trihydrate,Minoxidil
+Vardenafil HCl Trihydrate,Quinine
+Vardenafil HCl Trihydrate,Rifabutin
+Lapatinib,Bortezomib (PS-341)
+Lapatinib,Cisplatin
+Lapatinib,Docetaxel
+Lapatinib,Etoposide
+Lapatinib,Fusidine
+Lapatinib,Mitoxantrone Hydrochloride
+Lapatinib,Paclitaxel
+Lapatinib,Quinine
+Lapatinib,Rifabutin
+Lapatinib,Sorafenib
+Lapatinib,Tretinoin
+Lapatinib,Vincristine
+Econazole,Docetaxel
+Econazole,Rifabutin
+Etidronate,Aceclofenac
+Etidronate,Nepafenac
+Etidronate,Pimecrolimus
+Sorafenib,Aceclofenac
+Sorafenib,Bortezomib (PS-341)
+Sorafenib,Cisplatin
+Sorafenib,Docetaxel
+Sorafenib,Etoposide
+Sorafenib,Fusidine
+Sorafenib,Lapatinib
+Sorafenib,Mitoxantrone Hydrochloride
+Sorafenib,Paclitaxel
+Sorafenib,Pimecrolimus
+Sorafenib,Probenecid
+Sorafenib,Quinine
+Sorafenib,Rifabutin
+Sorafenib,Tretinoin
+Sorafenib,Vincristine
+Sorafenib,Vincristine
+Tretinoin,Bortezomib (PS-341)
+Tretinoin,Chlorothiazide
+Tretinoin,Docetaxel
+Tretinoin,Fusidine
+Tretinoin,Lapatinib
+Tretinoin,Methyldopa
+Tretinoin,Minoxidil
+Tretinoin,Paclitaxel
+Tretinoin,Pimecrolimus
+Tretinoin,Quinine
+Tretinoin,Rifabutin
+Tretinoin,Sorafenib
+Paclitaxel,Azelaic acid
+Paclitaxel,Bortezomib (PS-341)
+Paclitaxel,Carmustine
+Paclitaxel,Chlorothiazide
+Paclitaxel,Cisplatin
+Paclitaxel,Docetaxel
+Paclitaxel,Enoxacin
+Paclitaxel,Etoposide
+Paclitaxel,Fusidine
+Paclitaxel,Lapatinib
+Paclitaxel,Methyldopa
+Paclitaxel,Minoxidil
+Paclitaxel,Mitoxantrone Hydrochloride
+Paclitaxel,Octreotide Acetate
+Paclitaxel,Pimecrolimus
+Paclitaxel,Probenecid
+Paclitaxel,Quinine
+Paclitaxel,Rifabutin
+Paclitaxel,Sodium Phenylbutyrate
+Paclitaxel,Sorafenib
+Paclitaxel,Tretinoin
+Paclitaxel,Vincristine
+Paclitaxel,Vincristine
+Etoposide,Bortezomib (PS-341)
+Etoposide,Cisplatin
+Etoposide,Docetaxel
+Etoposide,Fusidine
+Etoposide,Lapatinib
+Etoposide,Mitoxantrone Hydrochloride
+Etoposide,Paclitaxel
+Etoposide,Pimecrolimus
+Etoposide,Probenecid
+Etoposide,Quinine
+Etoposide,Rifabutin
+Etoposide,Sorafenib
+Etoposide,Vincristine
+Etoposide,Vincristine
+Minoxidil,Bortezomib (PS-341)
+Minoxidil,Chlorothiazide
+Minoxidil,Methyldopa
+Minoxidil,Paclitaxel
+Minoxidil,Probenecid
+Minoxidil,Quinine
+Minoxidil,Tretinoin
+Minoxidil,Vardenafil HCl Trihydrate
+Cephradine,Probenecid
+Diprophylline,Enoxacin
+Diprophylline,Probenecid
+Diprophylline,Quinine
+Vitamin D2,Bortezomib (PS-341)
+Vitamin D2,Chlorothiazide
+Vitamin D2,Fusidine
+Vitamin D2,Rifabutin
+Methyldopa,Bortezomib (PS-341)
+Methyldopa,Chlorothiazide
+Methyldopa,Minoxidil
+Methyldopa,Octreotide Acetate
+Methyldopa,Paclitaxel
+Methyldopa,Quinine
+Methyldopa,Tretinoin
+Methyldopa,Vardenafil HCl Trihydrate
+Vincristine,Bortezomib (PS-341)
+Vincristine,Cisplatin
+Vincristine,Docetaxel
+Vincristine,Etoposide
+Vincristine,Etoposide
+Vincristine,Fusidine
+Vincristine,Lapatinib
+Vincristine,Mitoxantrone Hydrochloride
+Vincristine,Paclitaxel
+Vincristine,Paclitaxel
+Vincristine,Pimecrolimus
+Vincristine,Probenecid
+Vincristine,Quinine
+Vincristine,Quinine
+Vincristine,Rifabutin
+Vincristine,Rifabutin
+Vincristine,Sorafenib
+Vincristine,Sorafenib
+Probenecid,Aceclofenac
+Probenecid,Cephradine
+Probenecid,Cisplatin
+Probenecid,Docetaxel
+Probenecid,Diprophylline
+Probenecid,Enoxacin
+Probenecid,Etoposide
+Probenecid,Minoxidil
+Probenecid,Mitoxantrone Hydrochloride
+Probenecid,Nepafenac
+Probenecid,Paclitaxel
+Probenecid,Pimecrolimus
+Probenecid,Quinine
+Probenecid,Sodium Phenylbutyrate
+Probenecid,Sorafenib
+Probenecid,Vincristine
+Chlorothiazide,Aceclofenac
+Chlorothiazide,Bortezomib (PS-341)
+Chlorothiazide,Vitamin D2
+Chlorothiazide,Methyldopa
+Chlorothiazide,Minoxidil
+Chlorothiazide,Nepafenac
+Chlorothiazide,Paclitaxel
+Chlorothiazide,Pimecrolimus
+Chlorothiazide,Quinine
+Chlorothiazide,Tretinoin
+Chlorothiazide,Vardenafil HCl Trihydrate
+Bifonazole,Docetaxel
+Bifonazole,Rifabutin
+Mitoxantrone Hydrochloride,Cisplatin
+Mitoxantrone Hydrochloride,Docetaxel
+Mitoxantrone Hydrochloride,Etoposide
+Mitoxantrone Hydrochloride,Lapatinib
+Mitoxantrone Hydrochloride,Paclitaxel
+Mitoxantrone Hydrochloride,Pimecrolimus
+Mitoxantrone Hydrochloride,Probenecid
+Mitoxantrone Hydrochloride,Quinine
+Mitoxantrone Hydrochloride,Sorafenib
+Mitoxantrone Hydrochloride,Vincristine
+Terconazole,Docetaxel
+Terconazole,Rifabutin
+Fusidine,Bortezomib (PS-341)
+Fusidine,Docetaxel
+Fusidine,Vitamin D2
+Fusidine,Etoposide
+Fusidine,Lapatinib
+Fusidine,Paclitaxel
+Fusidine,Pimecrolimus
+Fusidine,Pyrazinamide
+Fusidine,Quinine
+Fusidine,Rifabutin
+Fusidine,Sorafenib
+Fusidine,Tinidazole
+Fusidine,Tretinoin
+Fusidine,Vardenafil HCl Trihydrate
+Fusidine,Vincristine
+Rifabutin,Bifonazole
+Rifabutin,Bortezomib (PS-341)
+Rifabutin,Docetaxel
+Rifabutin,Econazole
+Rifabutin,Vitamin D2
+Rifabutin,Etoposide
+Rifabutin,Fusidine
+Rifabutin,Lapatinib
+Rifabutin,Nystatin (Fungicidin)
+Rifabutin,Paclitaxel
+Rifabutin,Pimecrolimus
+Rifabutin,Pyrazinamide
+Rifabutin,Quinine
+Rifabutin,Sorafenib
+Rifabutin,Terconazole
+Rifabutin,Tinidazole
+Rifabutin,Tretinoin
+Rifabutin,Vardenafil HCl Trihydrate
+Rifabutin,Vincristine
+Rifabutin,Vincristine
+Enoxacin,Aceclofenac
+Enoxacin,Docetaxel
+Enoxacin,Diprophylline
+Enoxacin,Nepafenac
+Enoxacin,Octreotide Acetate
+Enoxacin,Paclitaxel
+Enoxacin,Pimecrolimus
+Enoxacin,Probenecid
+Enoxacin,Quinine
+Nepafenac,Aceclofenac
+Nepafenac,Chlorothiazide
+Nepafenac,Enoxacin
+Nepafenac,Etidronate
+Nepafenac,Pimecrolimus
+Nepafenac,Probenecid
+Octreotide Acetate,Docetaxel
+Octreotide Acetate,Enoxacin
+Octreotide Acetate,Methyldopa
+Octreotide Acetate,Paclitaxel
+Octreotide Acetate,Quinine
+Aceclofenac,Chlorothiazide
+Aceclofenac,Enoxacin
+Aceclofenac,Etidronate
+Aceclofenac,Nepafenac
+Aceclofenac,Pimecrolimus
+Aceclofenac,Probenecid
+Aceclofenac,Quinine
+Aceclofenac,Sorafenib
+Pyrazinamide,Bortezomib (PS-341)
+Pyrazinamide,Fusidine
+Pyrazinamide,Rifabutin

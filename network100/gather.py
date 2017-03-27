@@ -1,4 +1,4 @@
-#gather all the infomation about the 100 drugs in a single xlsx file
+#gather all the infomation（the cas number） about the 100 drugs in a single xlsx file
 import pandas as pd 
 import os
 library_real=pd.read_excel('data.xlsx','library_repair')

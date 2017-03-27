@@ -1,0 +1,2250 @@
+<druglib><drug><cas-number>143831-71-4</cas-number>
+    <name>Dornase alfa</name>
+    <drugbank-id primary="true">DB00003</drugbank-id>
+    <drug-interactions />
+    </drug><drug><cas-number>185243-69-0</cas-number>
+    <name>Etanercept</name>
+    <drugbank-id primary="true">DB00005</drugbank-id>
+    <drug-interactions>
+      <drug-interaction>
+        <drugbank-id>DB05107</drugbank-id>
+        <name>16-Bromoepiandrosterone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with 16-Bromoepiandrosterone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01434</drugbank-id>
+        <name>19-norandrostenedione</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with 19-norandrostenedione.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01536</drugbank-id>
+        <name>4-Androstenedione</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with 4-Androstenedione.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01456</drugbank-id>
+        <name>5-androstenedione</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with 5-androstenedione.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01281</drugbank-id>
+        <name>Abatacept</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Abatacept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00054</drugbank-id>
+        <name>Abciximab</name>
+        <description>Etanercept may increase the anticoagulant activities of Abciximab.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01193</drugbank-id>
+        <name>Acebutolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Acebutolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06736</drugbank-id>
+        <name>Aceclofenac</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Aceclofenac.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01418</drugbank-id>
+        <name>Acenocoumarol</name>
+        <description>Etanercept may increase the anticoagulant activities of Acenocoumarol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12618</drugbank-id>
+        <name>Acetovanillone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Acetovanillone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00945</drugbank-id>
+        <name>Acetylsalicylic acid</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Acetylsalicylic acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11617</drugbank-id>
+        <name>Aclarubicin</name>
+        <description>Etanercept may decrease the excretion rate of Aclarubicin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00051</drugbank-id>
+        <name>Adalimumab</name>
+        <description>The risk or severity of adverse effects can be increased when Adalimumab is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00210</drugbank-id>
+        <name>Adapalene</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Adapalene.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00240</drugbank-id>
+        <name>Alclometasone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Alclometasone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04630</drugbank-id>
+        <name>Aldosterone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Aldosterone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00630</drugbank-id>
+        <name>Alendronic acid</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Alendronic acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09026</drugbank-id>
+        <name>Aliskiren</name>
+        <description>Etanercept may decrease the antihypertensive activities of Aliskiren.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00866</drugbank-id>
+        <name>Alprenolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Alprenolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00770</drugbank-id>
+        <name>Alprostadil</name>
+        <description>The therapeutic efficacy of Alprostadil can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05612</drugbank-id>
+        <name>ALT-110</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with ALT-110.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00288</drugbank-id>
+        <name>Amcinonide</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Amcinonide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00479</drugbank-id>
+        <name>Amikacin</name>
+        <description>Etanercept may decrease the excretion rate of Amikacin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00594</drugbank-id>
+        <name>Amiloride</name>
+        <description>Etanercept may decrease the antihypertensive activities of Amiloride.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06263</drugbank-id>
+        <name>Amrubicin</name>
+        <description>Etanercept may decrease the excretion rate of Amrubicin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00026</drugbank-id>
+        <name>Anakinra</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Anakinra.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05099</drugbank-id>
+        <name>Ancrod</name>
+        <description>Etanercept may increase the anticoagulant activities of Ancrod.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12081</drugbank-id>
+        <name>Anecortave</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Anecortave.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11785</drugbank-id>
+        <name>Anisodamine</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Anisodamine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06420</drugbank-id>
+        <name>annamycin</name>
+        <description>Etanercept may decrease the excretion rate of annamycin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01435</drugbank-id>
+        <name>Antipyrine</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Antipyrine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11598</drugbank-id>
+        <name>Antithrombin III human</name>
+        <description>Etanercept may increase the anticoagulant activities of Antithrombin III human.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12212</drugbank-id>
+        <name>Aop200704</name>
+        <description>Etanercept may decrease the antihypertensive activities of Aop200704.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06605</drugbank-id>
+        <name>Apixaban</name>
+        <description>Etanercept may increase the anticoagulant activities of Apixaban.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04626</drugbank-id>
+        <name>Apramycin</name>
+        <description>Etanercept may decrease the excretion rate of Apramycin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05676</drugbank-id>
+        <name>Apremilast</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Apremilast.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06696</drugbank-id>
+        <name>Arbekacin</name>
+        <description>Etanercept may decrease the excretion rate of Arbekacin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00407</drugbank-id>
+        <name>Ardeparin</name>
+        <description>Etanercept may increase the anticoagulant activities of Ardeparin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00278</drugbank-id>
+        <name>Argatroban</name>
+        <description>Etanercept may increase the anticoagulant activities of Argatroban.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09204</drugbank-id>
+        <name>Arotinolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Arotinolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00335</drugbank-id>
+        <name>Atenolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Atenolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB07402</drugbank-id>
+        <name>Azapropazone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Azapropazone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00972</drugbank-id>
+        <name>Azelastine</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Azelastine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08822</drugbank-id>
+        <name>Azilsartan medoxomil</name>
+        <description>The risk or severity of adverse effects can be increased when Azilsartan medoxomil is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01014</drugbank-id>
+        <name>Balsalazide</name>
+        <description>Etanercept may increase the nephrotoxic activities of Balsalazide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12768</drugbank-id>
+        <name>BCG</name>
+        <description>The therapeutic efficacy of Bcg can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00102</drugbank-id>
+        <name>Becaplermin</name>
+        <description>Etanercept may increase the anticoagulant activities of Becaplermin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11897</drugbank-id>
+        <name>Beclomethasone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Beclomethasone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00394</drugbank-id>
+        <name>Beclomethasone dipropionate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Beclomethasone dipropionate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09013</drugbank-id>
+        <name>Befunolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Befunolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08879</drugbank-id>
+        <name>Belimumab</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Belimumab.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00542</drugbank-id>
+        <name>Benazepril</name>
+        <description>The risk or severity of adverse effects can be increased when Benazepril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00436</drugbank-id>
+        <name>Bendroflumethiazide</name>
+        <description>The therapeutic efficacy of Bendroflumethiazide can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04812</drugbank-id>
+        <name>Benoxaprofen</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Benoxaprofen.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05229</drugbank-id>
+        <name>Beraprost</name>
+        <description>The therapeutic efficacy of Beraprost can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00443</drugbank-id>
+        <name>Betamethasone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Betamethasone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00195</drugbank-id>
+        <name>Betaxolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Betaxolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12480</drugbank-id>
+        <name>Betulinic Acid</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Betulinic Acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01295</drugbank-id>
+        <name>Bevantolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Bevantolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00905</drugbank-id>
+        <name>Bimatoprost</name>
+        <description>The therapeutic efficacy of Bimatoprost can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00612</drugbank-id>
+        <name>Bisoprolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Bisoprolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00006</drugbank-id>
+        <name>Bivalirudin</name>
+        <description>Etanercept may increase the anticoagulant activities of Bivalirudin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08807</drugbank-id>
+        <name>Bopindolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Bopindolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00963</drugbank-id>
+        <name>Bromfenac</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Bromfenac.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12160</drugbank-id>
+        <name>Bucillamine</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Bucillamine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12752</drugbank-id>
+        <name>Bucindolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Bucindolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01222</drugbank-id>
+        <name>Budesonide</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Budesonide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06726</drugbank-id>
+        <name>Bufuralol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Bufuralol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00887</drugbank-id>
+        <name>Bumetanide</name>
+        <description>Etanercept may decrease the diuretic activities of Bumetanide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08808</drugbank-id>
+        <name>Bupranolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Bupranolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06168</drugbank-id>
+        <name>Canakinumab</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Canakinumab.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00796</drugbank-id>
+        <name>Candesartan</name>
+        <description>The risk or severity of adverse effects can be increased when Candesartan is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00616</drugbank-id>
+        <name>Candoxatril</name>
+        <description>The risk or severity of adverse effects can be increased when Candoxatril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01197</drugbank-id>
+        <name>Captopril</name>
+        <description>The risk or severity of adverse effects can be increased when Captopril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00429</drugbank-id>
+        <name>Carboprost Tromethamine</name>
+        <description>The therapeutic efficacy of Carboprost Tromethamine can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00821</drugbank-id>
+        <name>Carprofen</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Carprofen.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00521</drugbank-id>
+        <name>Carteolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Carteolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01136</drugbank-id>
+        <name>Carvedilol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Carvedilol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01816</drugbank-id>
+        <name>Castanospermine</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Castanospermine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05374</drugbank-id>
+        <name>CDX-110</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with CDX-110.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00482</drugbank-id>
+        <name>Celecoxib</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Celecoxib.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04846</drugbank-id>
+        <name>Celiprolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Celiprolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08904</drugbank-id>
+        <name>Certolizumab pegol</name>
+        <description>Etanercept may increase the immunosuppressive activities of Certolizumab pegol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09261</drugbank-id>
+        <name>Certoparin</name>
+        <description>Etanercept may increase the anticoagulant activities of Certoparin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00608</drugbank-id>
+        <name>Chloroquine</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Chloroquine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00880</drugbank-id>
+        <name>Chlorothiazide</name>
+        <description>The therapeutic efficacy of Chlorothiazide can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00310</drugbank-id>
+        <name>Chlorthalidone</name>
+        <description>The therapeutic efficacy of Chlorthalidone can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01432</drugbank-id>
+        <name>Cholestyramine</name>
+        <description>Cholestyramine can cause a decrease in the absorption of Etanercept resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01410</drugbank-id>
+        <name>Ciclesonide</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Ciclesonide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01340</drugbank-id>
+        <name>Cilazapril</name>
+        <description>The risk or severity of adverse effects can be increased when Cilazapril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00827</drugbank-id>
+        <name>Cinoxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Cinoxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00537</drugbank-id>
+        <name>Ciprofloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Ciprofloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04272</drugbank-id>
+        <name>Citric Acid</name>
+        <description>Etanercept may increase the anticoagulant activities of Citric Acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11750</drugbank-id>
+        <name>Clobetasol</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Clobetasol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01013</drugbank-id>
+        <name>Clobetasol propionate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Clobetasol propionate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00838</drugbank-id>
+        <name>Clocortolone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Clocortolone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00720</drugbank-id>
+        <name>Clodronate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Clodronate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09218</drugbank-id>
+        <name>Clonixin</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Clonixin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11507</drugbank-id>
+        <name>Cloprostenol</name>
+        <description>The therapeutic efficacy of Cloprostenol can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00930</drugbank-id>
+        <name>Colesevelam</name>
+        <description>Colesevelam can cause a decrease in the absorption of Etanercept resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00375</drugbank-id>
+        <name>Colestipol</name>
+        <description>Colestipol can cause a decrease in the absorption of Etanercept resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01380</drugbank-id>
+        <name>Cortisone acetate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Cortisone acetate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11672</drugbank-id>
+        <name>Curcumin</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Curcumin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00531</drugbank-id>
+        <name>Cyclophosphamide</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Cyclophosphamide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00091</drugbank-id>
+        <name>Cyclosporine</name>
+        <description>Etanercept may increase the nephrotoxic activities of Cyclosporine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08921</drugbank-id>
+        <name>D-Limonene</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with D-Limonene.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06695</drugbank-id>
+        <name>Dabigatran etexilate</name>
+        <description>Etanercept may increase the anticoagulant activities of Dabigatran etexilate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06779</drugbank-id>
+        <name>Dalteparin</name>
+        <description>Etanercept may increase the anticoagulant activities of Dalteparin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06754</drugbank-id>
+        <name>Danaparoid</name>
+        <description>Etanercept may increase the anticoagulant activities of Danaparoid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00694</drugbank-id>
+        <name>Daunorubicin</name>
+        <description>Etanercept may decrease the excretion rate of Daunorubicin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01609</drugbank-id>
+        <name>Deferasirox</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Deferasirox.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05804</drugbank-id>
+        <name>dehydroepiandrosterone sulfate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with dehydroepiandrosterone sulfate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06643</drugbank-id>
+        <name>Denosumab</name>
+        <description>The risk or severity of adverse effects can be increased when Denosumab is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11095</drugbank-id>
+        <name>Desirudin</name>
+        <description>Etanercept may increase the anticoagulant activities of Desirudin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00035</drugbank-id>
+        <name>Desmopressin</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Desmopressin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00547</drugbank-id>
+        <name>Desoximetasone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Desoximetasone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06780</drugbank-id>
+        <name>Desoxycorticosterone acetate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Desoxycorticosterone acetate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01134</drugbank-id>
+        <name>Desoxycorticosterone Pivalate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Desoxycorticosterone Pivalate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01234</drugbank-id>
+        <name>Dexamethasone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Dexamethasone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11487</drugbank-id>
+        <name>Dexamethasone isonicotinate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Dexamethasone isonicotinate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09214</drugbank-id>
+        <name>Dexketoprofen</name>
+        <description>The risk or severity of adverse effects can be increased when Dexketoprofen is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09255</drugbank-id>
+        <name>Dextran</name>
+        <description>Etanercept may increase the anticoagulant activities of Dextran.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11122</drugbank-id>
+        <name>Dextran 40</name>
+        <description>Etanercept may increase the anticoagulant activities of Dextran 40.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11076</drugbank-id>
+        <name>Dextran 70</name>
+        <description>Etanercept may increase the anticoagulant activities of Dextran 70.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11241</drugbank-id>
+        <name>Dextran 75</name>
+        <description>Etanercept may increase the anticoagulant activities of Dextran 75.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00586</drugbank-id>
+        <name>Diclofenac</name>
+        <description>The risk or severity of adverse effects can be increased when Diclofenac is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00266</drugbank-id>
+        <name>Dicoumarol</name>
+        <description>Etanercept may increase the anticoagulant activities of Dicoumarol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00223</drugbank-id>
+        <name>Diflorasone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Diflorasone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00861</drugbank-id>
+        <name>Diflunisal</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Diflunisal.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09095</drugbank-id>
+        <name>Difluocortolone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Difluocortolone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06781</drugbank-id>
+        <name>Difluprednate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Difluprednate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00390</drugbank-id>
+        <name>Digoxin</name>
+        <description>The serum concentration of Digoxin can be increased when it is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11512</drugbank-id>
+        <name>Dihydrostreptomycin</name>
+        <description>Etanercept may decrease the excretion rate of Dihydrostreptomycin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12789</drugbank-id>
+        <name>Dinoprost</name>
+        <description>The therapeutic efficacy of Dinoprost can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01160</drugbank-id>
+        <name>Dinoprost Tromethamine</name>
+        <description>The therapeutic efficacy of Dinoprost Tromethamine can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00917</drugbank-id>
+        <name>Dinoprostone</name>
+        <description>The therapeutic efficacy of Dinoprostone can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00997</drugbank-id>
+        <name>Doxorubicin</name>
+        <description>Etanercept may decrease the excretion rate of Doxorubicin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01395</drugbank-id>
+        <name>Drospirenone</name>
+        <description>Etanercept may increase the hyperkalemic activities of Drospirenone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09215</drugbank-id>
+        <name>Droxicam</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Droxicam.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11952</drugbank-id>
+        <name>Duvelisib</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Duvelisib.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11687</drugbank-id>
+        <name>E6201</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with E6201.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12610</drugbank-id>
+        <name>Ebselen</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Ebselen.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00974</drugbank-id>
+        <name>Edetic Acid</name>
+        <description>Etanercept may increase the anticoagulant activities of Edetic Acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09075</drugbank-id>
+        <name>Edoxaban</name>
+        <description>Etanercept may increase the anticoagulant activities of Edoxaban.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00584</drugbank-id>
+        <name>Enalapril</name>
+        <description>The risk or severity of adverse effects can be increased when Enalapril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09477</drugbank-id>
+        <name>Enalaprilat</name>
+        <description>The risk or severity of adverse effects can be increased when Enalaprilat is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00467</drugbank-id>
+        <name>Enoxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Enoxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01225</drugbank-id>
+        <name>Enoxaparin</name>
+        <description>Etanercept may increase the anticoagulant activities of Enoxaparin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08991</drugbank-id>
+        <name>Epirizole</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Epirizole.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00445</drugbank-id>
+        <name>Epirubicin</name>
+        <description>Etanercept may decrease the excretion rate of Epirubicin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00700</drugbank-id>
+        <name>Eplerenone</name>
+        <description>Etanercept may decrease the antihypertensive activities of Eplerenone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01240</drugbank-id>
+        <name>Epoprostenol</name>
+        <description>The therapeutic efficacy of Epoprostenol can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00876</drugbank-id>
+        <name>Eprosartan</name>
+        <description>The risk or severity of adverse effects can be increased when Eprosartan is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB03515</drugbank-id>
+        <name>Equilenin</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Equilenin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB02187</drugbank-id>
+        <name>Equilin</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Equilin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00187</drugbank-id>
+        <name>Esmolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Esmolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00655</drugbank-id>
+        <name>Estrone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Estrone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04574</drugbank-id>
+        <name>Estrone sulfate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Estrone sulfate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00903</drugbank-id>
+        <name>Etacrynic acid</name>
+        <description>Etanercept may decrease the diuretic activities of Etacrynic acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08794</drugbank-id>
+        <name>Ethyl biscoumacetate</name>
+        <description>Etanercept may increase the anticoagulant activities of Ethyl biscoumacetate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01077</drugbank-id>
+        <name>Etidronic acid</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Etidronic acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00749</drugbank-id>
+        <name>Etodolac</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Etodolac.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08984</drugbank-id>
+        <name>Etofenamate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Etofenamate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01628</drugbank-id>
+        <name>Etoricoxib</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Etoricoxib.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11358</drugbank-id>
+        <name>Evening primrose oil</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Evening primrose oil.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06246</drugbank-id>
+        <name>exisulind</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with exisulind.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08981</drugbank-id>
+        <name>Fenbufen</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Fenbufen.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00573</drugbank-id>
+        <name>Fenoprofen</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Fenoprofen.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11411</drugbank-id>
+        <name>Fenprostalene</name>
+        <description>The therapeutic efficacy of Fenprostalene can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08868</drugbank-id>
+        <name>Fingolimod</name>
+        <description>Etanercept may increase the immunosuppressive activities of Fingolimod.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04576</drugbank-id>
+        <name>Fleroxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Fleroxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08976</drugbank-id>
+        <name>Floctafenine</name>
+        <description>The risk or severity of adverse effects can be increased when Floctafenine is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06250</drugbank-id>
+        <name>fluasterone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with fluasterone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00687</drugbank-id>
+        <name>Fludrocortisone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Fludrocortisone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB13136</drugbank-id>
+        <name>Fluindione</name>
+        <description>Etanercept may increase the anticoagulant activities of Fluindione.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08972</drugbank-id>
+        <name>Flumequine</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Flumequine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00663</drugbank-id>
+        <name>Flumethasone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Flumethasone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00180</drugbank-id>
+        <name>Flunisolide</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Flunisolide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11518</drugbank-id>
+        <name>Flunixin</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Flunixin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00591</drugbank-id>
+        <name>Fluocinolone Acetonide</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Fluocinolone Acetonide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01047</drugbank-id>
+        <name>Fluocinonide</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Fluocinonide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08971</drugbank-id>
+        <name>Fluocortolone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Fluocortolone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00324</drugbank-id>
+        <name>Fluorometholone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Fluorometholone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08970</drugbank-id>
+        <name>Fluprednidene</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Fluprednidene.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09378</drugbank-id>
+        <name>Fluprednisolone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Fluprednisolone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11519</drugbank-id>
+        <name>Fluprostenol</name>
+        <description>The therapeutic efficacy of Fluprostenol can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00846</drugbank-id>
+        <name>Flurandrenolide</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Flurandrenolide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00712</drugbank-id>
+        <name>Flurbiprofen</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Flurbiprofen.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08906</drugbank-id>
+        <name>Fluticasone furoate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Fluticasone furoate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00588</drugbank-id>
+        <name>Fluticasone Propionate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Fluticasone Propionate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00158</drugbank-id>
+        <name>Folic Acid</name>
+        <description>The therapeutic efficacy of Folic Acid can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11728</drugbank-id>
+        <name>Fondaparinux</name>
+        <description>Etanercept may increase the anticoagulant activities of Fondaparinux.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00569</drugbank-id>
+        <name>Fondaparinux sodium</name>
+        <description>Etanercept may increase the anticoagulant activities of Fondaparinux sodium.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01342</drugbank-id>
+        <name>Forasartan</name>
+        <description>The risk or severity of adverse effects can be increased when Forasartan is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08905</drugbank-id>
+        <name>Formestane</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Formestane.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00492</drugbank-id>
+        <name>Fosinopril</name>
+        <description>The risk or severity of adverse effects can be increased when Fosinopril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00452</drugbank-id>
+        <name>Framycetin</name>
+        <description>Etanercept may decrease the excretion rate of Framycetin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00695</drugbank-id>
+        <name>Furosemide</name>
+        <description>Etanercept may decrease the diuretic activities of Furosemide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04914</drugbank-id>
+        <name>G17DT</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with G17DT.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12831</drugbank-id>
+        <name>Gabexate</name>
+        <description>Etanercept may increase the anticoagulant activities of Gabexate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06160</drugbank-id>
+        <name>Garenoxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Garenoxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01044</drugbank-id>
+        <name>Gatifloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Gatifloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08964</drugbank-id>
+        <name>Gemeprost</name>
+        <description>The therapeutic efficacy of Gemeprost can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01155</drugbank-id>
+        <name>Gemifloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Gemifloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04263</drugbank-id>
+        <name>Geneticin</name>
+        <description>Etanercept may decrease the excretion rate of Geneticin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00798</drugbank-id>
+        <name>Gentamicin</name>
+        <description>Etanercept may decrease the excretion rate of Gentamicin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04729</drugbank-id>
+        <name>GENTAMICIN C1A</name>
+        <description>Etanercept may decrease the excretion rate of GENTAMICIN C1A which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05942</drugbank-id>
+        <name>GI-5005</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with GI-5005.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06674</drugbank-id>
+        <name>Golimumab</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Golimumab.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00365</drugbank-id>
+        <name>Grepafloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Grepafloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00502</drugbank-id>
+        <name>Haloperidol</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Haloperidol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05212</drugbank-id>
+        <name>HE3286</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with HE3286.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01109</drugbank-id>
+        <name>Heparin</name>
+        <description>Etanercept may increase the anticoagulant activities of Heparin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12779</drugbank-id>
+        <name>Higenamine</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Higenamine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB02351</drugbank-id>
+        <name>Hirulog</name>
+        <description>Etanercept may increase the anticoagulant activities of Hirulog.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05767</drugbank-id>
+        <name>HMPL-004</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with HMPL-004.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01275</drugbank-id>
+        <name>Hydralazine</name>
+        <description>Etanercept may decrease the antihypertensive activities of Hydralazine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00999</drugbank-id>
+        <name>Hydrochlorothiazide</name>
+        <description>The therapeutic efficacy of Hydrochlorothiazide can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00741</drugbank-id>
+        <name>Hydrocortisone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Hydrocortisone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00774</drugbank-id>
+        <name>Hydroflumethiazide</name>
+        <description>The therapeutic efficacy of Hydroflumethiazide can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11520</drugbank-id>
+        <name>Hygromycin B</name>
+        <description>Etanercept may decrease the excretion rate of Hygromycin B which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00710</drugbank-id>
+        <name>Ibandronate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Ibandronate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01050</drugbank-id>
+        <name>Ibuprofen</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Ibuprofen.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08955</drugbank-id>
+        <name>Ibuproxam</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Ibuproxam.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06196</drugbank-id>
+        <name>Icatibant</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Icatibant.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01177</drugbank-id>
+        <name>Idarubicin</name>
+        <description>Etanercept may decrease the excretion rate of Idarubicin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06406</drugbank-id>
+        <name>idraparinux</name>
+        <description>Etanercept may increase the anticoagulant activities of idraparinux.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01088</drugbank-id>
+        <name>Iloprost</name>
+        <description>The therapeutic efficacy of Iloprost can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11783</drugbank-id>
+        <name>Imidapril</name>
+        <description>The risk or severity of adverse effects can be increased when Imidapril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00808</drugbank-id>
+        <name>Indapamide</name>
+        <description>The therapeutic efficacy of Indapamide can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08952</drugbank-id>
+        <name>Indenolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Indenolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00328</drugbank-id>
+        <name>Indomethacin</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Indomethacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08951</drugbank-id>
+        <name>Indoprofen</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Indoprofen.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00065</drugbank-id>
+        <name>Infliximab</name>
+        <description>Etanercept may increase the immunosuppressive activities of Infliximab.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05322</drugbank-id>
+        <name>INGN 201</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with INGN 201.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05325</drugbank-id>
+        <name>INGN 225</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with INGN 225.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06013</drugbank-id>
+        <name>INNO-206</name>
+        <description>Etanercept may decrease the excretion rate of INNO-206 which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01029</drugbank-id>
+        <name>Irbesartan</name>
+        <description>The risk or severity of adverse effects can be increased when Irbesartan is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08942</drugbank-id>
+        <name>Isoxicam</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Isoxicam.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06157</drugbank-id>
+        <name>Istaroxime</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Istaroxime.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01172</drugbank-id>
+        <name>Kanamycin</name>
+        <description>Etanercept may decrease the excretion rate of Kanamycin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08940</drugbank-id>
+        <name>Kebuzone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Kebuzone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01009</drugbank-id>
+        <name>Ketoprofen</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Ketoprofen.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00465</drugbank-id>
+        <name>Ketorolac</name>
+        <description>The risk or severity of adverse effects can be increased when Ketorolac is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00598</drugbank-id>
+        <name>Labetalol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Labetalol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00654</drugbank-id>
+        <name>Latanoprost</name>
+        <description>The therapeutic efficacy of Latanoprost can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01097</drugbank-id>
+        <name>Leflunomide</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Leflunomide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00001</drugbank-id>
+        <name>Lepirudin</name>
+        <description>Etanercept may increase the anticoagulant activities of Lepirudin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01210</drugbank-id>
+        <name>Levobunolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Levobunolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01137</drugbank-id>
+        <name>Levofloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Levofloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09211</drugbank-id>
+        <name>Limaprost</name>
+        <description>The therapeutic efficacy of Limaprost can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00722</drugbank-id>
+        <name>Lisinopril</name>
+        <description>The risk or severity of adverse effects can be increased when Lisinopril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12406</drugbank-id>
+        <name>Lisofylline</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Lisofylline.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01356</drugbank-id>
+        <name>Lithium</name>
+        <description>The serum concentration of Lithium can be increased when it is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00978</drugbank-id>
+        <name>Lomefloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Lomefloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06725</drugbank-id>
+        <name>Lornoxicam</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Lornoxicam.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00678</drugbank-id>
+        <name>Losartan</name>
+        <description>The risk or severity of adverse effects can be increased when Losartan is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09212</drugbank-id>
+        <name>Loxoprofen</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Loxoprofen.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01046</drugbank-id>
+        <name>Lubiprostone</name>
+        <description>The therapeutic efficacy of Lubiprostone can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01283</drugbank-id>
+        <name>Lumiracoxib</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Lumiracoxib.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11425</drugbank-id>
+        <name>Luprostiol</name>
+        <description>The therapeutic efficacy of Luprostiol can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01397</drugbank-id>
+        <name>Magnesium salicylate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Magnesium salicylate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00179</drugbank-id>
+        <name>Masoprocol</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Masoprocol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05402</drugbank-id>
+        <name>ME-609</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with ME-609.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00939</drugbank-id>
+        <name>Meclofenamic acid</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Meclofenamic acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00253</drugbank-id>
+        <name>Medrysone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Medrysone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00784</drugbank-id>
+        <name>Mefenamic acid</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Mefenamic acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11529</drugbank-id>
+        <name>Melengestrol</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Melengestrol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00814</drugbank-id>
+        <name>Meloxicam</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Meloxicam.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00244</drugbank-id>
+        <name>Mesalazine</name>
+        <description>Etanercept may increase the nephrotoxic activities of Mesalazine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04817</drugbank-id>
+        <name>Metamizole</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Metamizole.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00563</drugbank-id>
+        <name>Methotrexate</name>
+        <description>The serum concentration of Methotrexate can be increased when it is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00232</drugbank-id>
+        <name>Methyclothiazide</name>
+        <description>The therapeutic efficacy of Methyclothiazide can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00959</drugbank-id>
+        <name>Methylprednisolone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Methylprednisolone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01214</drugbank-id>
+        <name>Metipranolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Metipranolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00524</drugbank-id>
+        <name>Metolazone</name>
+        <description>The therapeutic efficacy of Metolazone can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00264</drugbank-id>
+        <name>Metoprolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Metoprolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01578</drugbank-id>
+        <name>Metrizamide</name>
+        <description>Etanercept may decrease the excretion rate of Metrizamide which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00929</drugbank-id>
+        <name>Misoprostol</name>
+        <description>The therapeutic efficacy of Misoprostol can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12617</drugbank-id>
+        <name>Mizoribine</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Mizoribine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00691</drugbank-id>
+        <name>Moexipril</name>
+        <description>The risk or severity of adverse effects can be increased when Moexipril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00764</drugbank-id>
+        <name>Mometasone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Mometasone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09285</drugbank-id>
+        <name>Morniflumate</name>
+        <description>The risk or severity of adverse effects can be increased when Morniflumate is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00218</drugbank-id>
+        <name>Moxifloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Moxifloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00688</drugbank-id>
+        <name>Mycophenolate mofetil</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Mycophenolate mofetil.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01024</drugbank-id>
+        <name>Mycophenolic acid</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Mycophenolic acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00461</drugbank-id>
+        <name>Nabumetone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Nabumetone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01203</drugbank-id>
+        <name>Nadolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Nadolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08813</drugbank-id>
+        <name>Nadroparin</name>
+        <description>Etanercept may increase the anticoagulant activities of Nadroparin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12598</drugbank-id>
+        <name>Nafamostat</name>
+        <description>Etanercept may increase the anticoagulant activities of Nafamostat.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00735</drugbank-id>
+        <name>Naftifine</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Naftifine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00779</drugbank-id>
+        <name>Nalidixic Acid</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Nalidixic Acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00788</drugbank-id>
+        <name>Naproxen</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Naproxen.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00108</drugbank-id>
+        <name>Natalizumab</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Natalizumab.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05410</drugbank-id>
+        <name>NCX 1022</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with NCX 1022.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05822</drugbank-id>
+        <name>NCX 4016</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with NCX 4016.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04808</drugbank-id>
+        <name>Neamine</name>
+        <description>Etanercept may decrease the excretion rate of Neamine which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06600</drugbank-id>
+        <name>Nemonoxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Nemonoxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00994</drugbank-id>
+        <name>Neomycin</name>
+        <description>Etanercept may decrease the excretion rate of Neomycin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06802</drugbank-id>
+        <name>Nepafenac</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Nepafenac.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00955</drugbank-id>
+        <name>Netilmicin</name>
+        <description>Etanercept may decrease the excretion rate of Netilmicin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04552</drugbank-id>
+        <name>Niflumic Acid</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Niflumic Acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04743</drugbank-id>
+        <name>Nimesulide</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Nimesulide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12445</drugbank-id>
+        <name>Nitroaspirin</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Nitroaspirin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01059</drugbank-id>
+        <name>Norfloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Norfloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01165</drugbank-id>
+        <name>Ofloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Ofloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04870</drugbank-id>
+        <name>Oleoyl estrone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Oleoyl estrone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00275</drugbank-id>
+        <name>Olmesartan</name>
+        <description>The risk or severity of adverse effects can be increased when Olmesartan is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00768</drugbank-id>
+        <name>Olopatadine</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Olopatadine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01250</drugbank-id>
+        <name>Olsalazine</name>
+        <description>Etanercept may increase the nephrotoxic activities of Olsalazine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04865</drugbank-id>
+        <name>Omacetaxine mepesuccinate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Omacetaxine mepesuccinate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00886</drugbank-id>
+        <name>Omapatrilat</name>
+        <description>The risk or severity of adverse effects can be increased when Omapatrilat is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11444</drugbank-id>
+        <name>Orgotein</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Orgotein.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06635</drugbank-id>
+        <name>Otamixaban</name>
+        <description>Etanercept may increase the anticoagulant activities of Otamixaban.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00991</drugbank-id>
+        <name>Oxaprozin</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Oxaprozin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01580</drugbank-id>
+        <name>Oxprenolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Oxprenolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB03585</drugbank-id>
+        <name>Oxyphenbutazone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Oxyphenbutazone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00282</drugbank-id>
+        <name>Pamidronate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Pamidronate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01384</drugbank-id>
+        <name>Paramethasone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Paramethasone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08439</drugbank-id>
+        <name>Parecoxib</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Parecoxib.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01421</drugbank-id>
+        <name>Paromomycin</name>
+        <description>Etanercept may decrease the excretion rate of Paromomycin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11774</drugbank-id>
+        <name>Pazufloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Pazufloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00487</drugbank-id>
+        <name>Pefloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Pefloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01359</drugbank-id>
+        <name>Penbutolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Penbutolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00686</drugbank-id>
+        <name>Pentosan Polysulfate</name>
+        <description>Etanercept may increase the anticoagulant activities of Pentosan Polysulfate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00790</drugbank-id>
+        <name>Perindopril</name>
+        <description>The risk or severity of adverse effects can be increased when Perindopril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00498</drugbank-id>
+        <name>Phenindione</name>
+        <description>Etanercept may increase the anticoagulant activities of Phenindione.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00946</drugbank-id>
+        <name>Phenprocoumon</name>
+        <description>Etanercept may increase the anticoagulant activities of Phenprocoumon.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00812</drugbank-id>
+        <name>Phenylbutazone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Phenylbutazone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00337</drugbank-id>
+        <name>Pimecrolimus</name>
+        <description>The risk or severity of adverse effects can be increased when Pimecrolimus is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00960</drugbank-id>
+        <name>Pindolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Pindolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11616</drugbank-id>
+        <name>Pirarubicin</name>
+        <description>Etanercept may decrease the excretion rate of Pirarubicin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB02925</drugbank-id>
+        <name>Piretanide</name>
+        <description>Etanercept may decrease the diuretic activities of Piretanide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04951</drugbank-id>
+        <name>Pirfenidone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Pirfenidone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00554</drugbank-id>
+        <name>Piroxicam</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Piroxicam.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06810</drugbank-id>
+        <name>Plicamycin</name>
+        <description>Etanercept may decrease the excretion rate of Plicamycin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01324</drugbank-id>
+        <name>Polythiazide</name>
+        <description>The therapeutic efficacy of Polythiazide can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01297</drugbank-id>
+        <name>Practolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Practolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06813</drugbank-id>
+        <name>Pralatrexate</name>
+        <description>The serum concentration of Pralatrexate can be increased when it is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01708</drugbank-id>
+        <name>Prasterone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Prasterone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01130</drugbank-id>
+        <name>Prednicarbate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Prednicarbate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00860</drugbank-id>
+        <name>Prednisolone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Prednisolone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00635</drugbank-id>
+        <name>Prednisone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Prednisone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB02789</drugbank-id>
+        <name>Pregnenolone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Pregnenolone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01032</drugbank-id>
+        <name>Probenecid</name>
+        <description>The serum concentration of Etanercept can be increased when it is combined with Probenecid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09288</drugbank-id>
+        <name>Propacetamol</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Propacetamol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00571</drugbank-id>
+        <name>Propranolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Propranolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB02304</drugbank-id>
+        <name>Prostaglandin B2</name>
+        <description>The therapeutic efficacy of Prostaglandin B2 can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08863</drugbank-id>
+        <name>Prostaglandin D2</name>
+        <description>The therapeutic efficacy of Prostaglandin D2 can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB03866</drugbank-id>
+        <name>Prostaglandin G2</name>
+        <description>The therapeutic efficacy of Prostaglandin G2 can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11454</drugbank-id>
+        <name>Prostalene</name>
+        <description>The therapeutic efficacy of Prostalene can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11312</drugbank-id>
+        <name>Protein C</name>
+        <description>Etanercept may increase the anticoagulant activities of Protein C.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB13149</drugbank-id>
+        <name>Protein S human</name>
+        <description>Etanercept may increase the anticoagulant activities of Protein S human.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11268</drugbank-id>
+        <name>Protocatechualdehyde</name>
+        <description>Etanercept may increase the anticoagulant activities of Protocatechualdehyde.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11892</drugbank-id>
+        <name>Prulifloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Prulifloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05173</drugbank-id>
+        <name>PTC299</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with PTC299.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08437</drugbank-id>
+        <name>Puromycin</name>
+        <description>Etanercept may decrease the excretion rate of Puromycin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00881</drugbank-id>
+        <name>Quinapril</name>
+        <description>The risk or severity of adverse effects can be increased when Quinapril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01325</drugbank-id>
+        <name>Quinethazone</name>
+        <description>The therapeutic efficacy of Quinethazone can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB10283</drugbank-id>
+        <name>Rabies vaccine</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Rabies vaccine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB10283</drugbank-id>
+        <name>Rabies vaccine</name>
+        <description>The therapeutic efficacy of Rabies vaccine can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00178</drugbank-id>
+        <name>Ramipril</name>
+        <description>The risk or severity of adverse effects can be increased when Ramipril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01180</drugbank-id>
+        <name>Rescinnamine</name>
+        <description>The risk or severity of adverse effects can be increased when Rescinnamine is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB02709</drugbank-id>
+        <name>Resveratrol</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Resveratrol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09259</drugbank-id>
+        <name>Reviparin</name>
+        <description>Etanercept may increase the anticoagulant activities of Reviparin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB03615</drugbank-id>
+        <name>Ribostamycin</name>
+        <description>Etanercept may decrease the excretion rate of Ribostamycin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06372</drugbank-id>
+        <name>Rilonacept</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Rilonacept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00896</drugbank-id>
+        <name>Rimexolone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Rimexolone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00884</drugbank-id>
+        <name>Risedronate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Risedronate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00073</drugbank-id>
+        <name>Rituximab</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Rituximab.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06228</drugbank-id>
+        <name>Rivaroxaban</name>
+        <description>Etanercept may increase the anticoagulant activities of Rivaroxaban.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00533</drugbank-id>
+        <name>Rofecoxib</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Rofecoxib.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01656</drugbank-id>
+        <name>Roflumilast</name>
+        <description>Roflumilast may increase the immunosuppressive activities of Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00817</drugbank-id>
+        <name>Rosoxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Rosoxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09292</drugbank-id>
+        <name>Sacubitril</name>
+        <description>The risk or severity of adverse effects can be increased when Sacubitril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08797</drugbank-id>
+        <name>Salicylamide</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Salicylamide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00936</drugbank-id>
+        <name>Salicylic acid</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Salicylic acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01399</drugbank-id>
+        <name>Salsalate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Salsalate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01347</drugbank-id>
+        <name>Saprisartan</name>
+        <description>The risk or severity of adverse effects can be increased when Saprisartan is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06763</drugbank-id>
+        <name>Saralasin</name>
+        <description>The risk or severity of adverse effects can be increased when Saralasin is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06739</drugbank-id>
+        <name>Seratrodast</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Seratrodast.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06688</drugbank-id>
+        <name>Sipuleucel-T</name>
+        <description>The therapeutic efficacy of Sipuleucel-T can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12604</drugbank-id>
+        <name>Sisomicin</name>
+        <description>Etanercept may decrease the excretion rate of Sisomicin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00489</drugbank-id>
+        <name>Sotalol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Sotalol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04978</drugbank-id>
+        <name>SP1049C</name>
+        <description>Etanercept may decrease the excretion rate of SP1049C which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01208</drugbank-id>
+        <name>Sparfloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Sparfloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00919</drugbank-id>
+        <name>Spectinomycin</name>
+        <description>Etanercept may decrease the excretion rate of Spectinomycin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01348</drugbank-id>
+        <name>Spirapril</name>
+        <description>The risk or severity of adverse effects can be increased when Spirapril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00421</drugbank-id>
+        <name>Spironolactone</name>
+        <description>Etanercept may decrease the antihypertensive activities of Spironolactone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05440</drugbank-id>
+        <name>SRP 299</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with SRP 299.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB05073</drugbank-id>
+        <name>SRT501</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with SRT501.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01082</drugbank-id>
+        <name>Streptomycin</name>
+        <description>Etanercept may decrease the excretion rate of Streptomycin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00428</drugbank-id>
+        <name>Streptozocin</name>
+        <description>Etanercept may decrease the excretion rate of Streptozocin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00795</drugbank-id>
+        <name>Sulfasalazine</name>
+        <description>Etanercept may increase the nephrotoxic activities of Sulfasalazine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00605</drugbank-id>
+        <name>Sulindac</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Sulindac.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06271</drugbank-id>
+        <name>Sulodexide</name>
+        <description>Etanercept may increase the anticoagulant activities of Sulodexide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12708</drugbank-id>
+        <name>Sulprostone</name>
+        <description>The therapeutic efficacy of Sulprostone can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00870</drugbank-id>
+        <name>Suprofen</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Suprofen.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00864</drugbank-id>
+        <name>Tacrolimus</name>
+        <description>The risk or severity of adverse effects can be increased when Tacrolimus is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00864</drugbank-id>
+        <name>Tacrolimus</name>
+        <description>Etanercept may increase the nephrotoxic activities of Tacrolimus.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08819</drugbank-id>
+        <name>Tafluprost</name>
+        <description>The therapeutic efficacy of Tafluprost can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09295</drugbank-id>
+        <name>Talniflumate</name>
+        <description>The risk or severity of adverse effects can be increased when Talniflumate is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01349</drugbank-id>
+        <name>Tasosartan</name>
+        <description>The risk or severity of adverse effects can be increased when Tasosartan is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09411</drugbank-id>
+        <name>Technetium tc 99m etidronate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Technetium tc 99m etidronate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09138</drugbank-id>
+        <name>Technetium Tc-99m Medronate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Technetium Tc-99m Medronate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00966</drugbank-id>
+        <name>Telmisartan</name>
+        <description>The risk or severity of adverse effects can be increased when Telmisartan is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01405</drugbank-id>
+        <name>Temafloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Temafloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08836</drugbank-id>
+        <name>Temocapril</name>
+        <description>The risk or severity of adverse effects can be increased when Temocapril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00300</drugbank-id>
+        <name>Tenofovir</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Tenofovir.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00469</drugbank-id>
+        <name>Tenoxicam</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Tenoxicam.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11466</drugbank-id>
+        <name>Tepoxalin</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Tepoxalin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08880</drugbank-id>
+        <name>Teriflunomide</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Teriflunomide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06584</drugbank-id>
+        <name>TG4010</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with TG4010.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01600</drugbank-id>
+        <name>Tiaprofenic acid</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Tiaprofenic acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01133</drugbank-id>
+        <name>Tiludronate</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Tiludronate.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00373</drugbank-id>
+        <name>Timolol</name>
+        <description>Etanercept may decrease the antihypertensive activities of Timolol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB13001</drugbank-id>
+        <name>Tinoridine</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Tinoridine.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09091</drugbank-id>
+        <name>Tixocortol</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Tixocortol.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00684</drugbank-id>
+        <name>Tobramycin</name>
+        <description>Etanercept may decrease the excretion rate of Tobramycin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06273</drugbank-id>
+        <name>Tocilizumab</name>
+        <description>Tocilizumab may increase the immunosuppressive activities of Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB08895</drugbank-id>
+        <name>Tofacitinib</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Tofacitinib.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09216</drugbank-id>
+        <name>Tolfenamic Acid</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Tolfenamic Acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00500</drugbank-id>
+        <name>Tolmetin</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Tolmetin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00214</drugbank-id>
+        <name>Torasemide</name>
+        <description>Etanercept may decrease the diuretic activities of Torasemide.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00519</drugbank-id>
+        <name>Trandolapril</name>
+        <description>The risk or severity of adverse effects can be increased when Trandolapril is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB07615</drugbank-id>
+        <name>Tranilast</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Tranilast.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00072</drugbank-id>
+        <name>Trastuzumab</name>
+        <description>Trastuzumab may increase the neutropenic activities of Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00287</drugbank-id>
+        <name>Travoprost</name>
+        <description>The therapeutic efficacy of Travoprost can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00374</drugbank-id>
+        <name>Treprostinil</name>
+        <description>The risk or severity of adverse effects can be increased when Treprostinil is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00620</drugbank-id>
+        <name>Triamcinolone</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Triamcinolone.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00384</drugbank-id>
+        <name>Triamterene</name>
+        <description>Etanercept may decrease the antihypertensive activities of Triamterene.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01021</drugbank-id>
+        <name>Trichlormethiazide</name>
+        <description>The therapeutic efficacy of Trichlormethiazide can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB01401</drugbank-id>
+        <name>Trisalicylate-choline</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Trisalicylate-choline.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00685</drugbank-id>
+        <name>Trovafloxacin</name>
+        <description>Etanercept may increase the neuroexcitatory activities of Trovafloxacin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06826</drugbank-id>
+        <name>Unoprostone</name>
+        <description>The therapeutic efficacy of Unoprostone can be decreased when used in combination with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00580</drugbank-id>
+        <name>Valdecoxib</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Valdecoxib.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00385</drugbank-id>
+        <name>Valrubicin</name>
+        <description>Etanercept may decrease the excretion rate of Valrubicin which could result in a higher serum level.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00177</drugbank-id>
+        <name>Valsartan</name>
+        <description>The risk or severity of adverse effects can be increased when Valsartan is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00512</drugbank-id>
+        <name>Vancomycin</name>
+        <description>The serum concentration of Vancomycin can be increased when it is combined with Etanercept.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB09033</drugbank-id>
+        <name>Vedolizumab</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Vedolizumab.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00682</drugbank-id>
+        <name>Warfarin</name>
+        <description>Etanercept may increase the anticoagulant activities of Warfarin.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04898</drugbank-id>
+        <name>Ximelagatran</name>
+        <description>Etanercept may increase the anticoagulant activities of Ximelagatran.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB12289</drugbank-id>
+        <name>Ym150</name>
+        <description>Etanercept may increase the anticoagulant activities of Ym150.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB06737</drugbank-id>
+        <name>Zaltoprofen</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Zaltoprofen.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00744</drugbank-id>
+        <name>Zileuton</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Zileuton.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB00399</drugbank-id>
+        <name>Zoledronic acid</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Zoledronic acid.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB04828</drugbank-id>
+        <name>Zomepirac</name>
+        <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Zomepirac.</description>
+      </drug-interaction>
+      <drug-interaction>
+        <drugbank-id>DB11618</drugbank-id>
+        <name>Zorubicin</name>
+        <description>Etanercept may decrease the excretion rate of Zorubicin which could result in a higher serum level.</description>
+      </drug-interaction>
+    </drug-interactions>
+    </drug></druglib>

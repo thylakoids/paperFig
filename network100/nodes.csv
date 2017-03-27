@@ -1,0 +1,45 @@
+id,drugbankid,Pathways,cas
+Disodium monofluorophosphate,DB02348,Enzyme,10163-15-2
+Docetaxel,DB01248,Cell Cycle/Checkpoint,114977-28-5
+Benzyl benzoate,DB00676,Others,120-51-4
+Azelaic acid,DB00548,DNA Damage/DNA Repair,123-99-9
+Sulfamerazine,DB01581,Microbiology & Virology,127-79-7
+Quinine,DB00468,Others,130-95-0
+Pimecrolimus,DB00337,Others,137071-32-0
+Zanamivir,DB00558,Microbiology & Virology,139110-80-8
+Nystatin (Fungicidin),DB00646,Microbiology & Virology,1400-61-9
+Carmustine,DB00262,DNA Damage/DNA Repair,154-93-8
+Cisplatin,DB00515,DNA Damage/DNA Repair,15663-27-1
+Sodium Phenylbutyrate,DB06819,Chromatin/Epigenetic,1716-12-7
+Bortezomib (PS-341),DB00188,Proteases/Proteasome,179324-69-7
+Tinidazole,DB00911,Microbiology & Virology,19387-91-8
+Vardenafil HCl Trihydrate,DB00862,Metabolism,224785-90-4
+Lapatinib,DB01259,Tyrosine Kinase/Adaptors,231277-92-2
+Econazole,DB01127,Microbiology & Virology,27220-47-9
+Etidronate,DB01077,Membrane Transporter/Ion Channel,2809-21-4
+Sorafenib,DB00398,Tyrosine Kinase/Adaptors,284461-73-0
+Tretinoin,DB00755,Metabolism,302-79-4
+Paclitaxel,DB01229,Cell Cycle/Checkpoint,33069-62-4
+Etoposide,DB00773,DNA Damage/DNA Repair,33419-42-0
+Minoxidil,DB00350,Neuroscience,38304-91-5
+Cephradine,DB01333,Microbiology & Virology,38821-53-3
+Diprophylline,DB00651,Metabolism,479-18-5
+Vitamin D2,DB00153,DNA Damage/DNA Repair,50-14-6
+Methyldopa,DB00968,GPCR/G Protein,555-30-6
+Vincristine,DB00541,Cell Cycle/Checkpoint,57-22-7
+Probenecid,DB01032,Membrane Transporter/Ion Channel,57-66-9
+Chlorothiazide,DB00880,Metabolism,58-94-6
+Bifonazole,DB04794,Microbiology & Virology,60628-96-8
+Dirithromycin,DB00954,Microbiology & Virology,62013-04-1
+Mitoxantrone Hydrochloride,DB01204,DNA Damage/DNA Repair,65271-80-9
+Terconazole,DB00251,Microbiology & Virology,67915-31-5
+Maltose,DB03323,Others,69-79-4
+Fusidine,DB02703,Microbiology & Virology,6990-06-3
+Rifabutin,DB00615,DNA Damage/DNA Repair,72559-06-9
+Enoxacin,DB00467,DNA Damage/DNA Repair,74011-58-8
+Nepafenac,DB06802,Neuroscience,78281-72-8
+Octreotide Acetate,DB00104,Endocrinology/ Hormones,83150-76-9
+Tetryzoline,DB06764,GPCR/G Protein,84-22-0
+Aceclofenac,DB06736,Neuroscience,89796-99-6
+Radotinib,DB12323,Tyrosine Kinase/Adaptors,926037-48-1
+Pyrazinamide,DB00339,Enzyme,98-96-4
