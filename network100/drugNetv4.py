@@ -26,14 +26,14 @@ result2.index.name='cas'
 
 ##map cas to name
 gather100.index=gather100.CAS_x
-result2=result2[['id','interactions']].join(gather100[['Name','Pathways_new']])
+result2=result2[['id','interactions']].join(gather100[['Name_new','Pathways_new']])
 ##save to inter100v2.xlsx
 writer=pd.ExcelWriter('inter100v2.xlsx')
 result2.to_excel(writer,'inter')
 writer.save()
 
 ### nodes
-nodes=result2[['Name','id','Pathways_new']]
+nodes=result2[['Name_new','id','Pathways_new']]
 nodes.columns=['id','drugbankid','Pathways_new']
 nodes['cas']=nodes.index
 nodes.to_csv('nodes.csv',index=False)
@@ -47,8 +47,8 @@ for id in result3.index:
 	inters=result3.ix[id,'interactions']
 	if inters:
 		for inter in inters:
-			e_from.append(result3.ix[id,'Name'])
-			e_to.append(result3.ix[inter,'Name'])
+			e_from.append(result3.ix[id,'Name_new'])
+			e_to.append(result3.ix[inter,'Name_new'])
 edges=pd.DataFrame({'from':e_from,'to':e_to})
 edges.to_csv('edges.csv',index=False)
 

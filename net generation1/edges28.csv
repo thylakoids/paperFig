@@ -1,0 +1,50 @@
+from,to,weight,fromn,ton
+Etoposide,Etoposide,-0.000572525949516,26,26
+Belinostat,Belinostat,-0.0199953498022,48,48
+Semicarbazide HCl,Semicarbazide HCl,-0.00132703643208,63,63
+Mitoxantrone,Mitoxantrone,-0.0418662079182,80,80
+Vincristine,Vincristine,-0.000244477803763,91,91
+Fusidine,Thiamine HCl,-3.04693048212e-05,1,14
+Fusidine,Dichlorisone Acetate,-0.000210084128805,1,54
+Fusidine,Mianserin HCl,9.64112865818e-06,1,75
+Fusidine,Pizotifen,-2.39945216224e-05,1,99
+Noradrenaline bitartrate,Bortezomib,-0.000117955205164,3,23
+Noradrenaline bitartrate,Mitoxantrone,-2.3455434562e-05,3,80
+Noradrenaline bitartrate,Vincristine,-0.000189405958099,3,91
+Aceclofenac,Mianserin HCl,3.75633059063e-05,5,75
+Aceclofenac,Mitoxantrone,-3.62090940779e-05,5,80
+Thiamine HCl,Bortezomib,-3.08965818175e-05,14,23
+Thiamine HCl,Nebivolol HCl,-1.62069235238e-07,14,31
+Thiamine HCl,Dichlorisone Acetate,-2.11362177192e-05,14,54
+Thiamine HCl,Semicarbazide HCl,-1.32685446828e-06,14,63
+Thiamine HCl,Mitoxantrone,-0.00026537987706,14,80
+Thiamine HCl,Diprophylline,-6.68803871835e-05,14,92
+Clorsulon,Belinostat,-4.15527868069e-05,17,48
+Birch-Me,Etoposide,-0.000309075046181,19,26
+Birch-Me,Semicarbazide HCl,-5.24798684689e-06,19,63
+Bortezomib,Enoxacin,-0.000240459277361,23,71
+Bortezomib,Cisplatin,-0.000190703585241,23,74
+Bortezomib,Mianserin HCl,-0.000121955736463,23,75
+Etoposide,Belinostat,-1.13391958502e-05,26,48
+Etoposide,Vortioxetine HBr,-9.54187781862e-06,26,56
+Nebivolol HCl,Belinostat,-0.000280247338785,31,48
+Dehydroacetic acid,Belinostat,-5.74978529672e-05,36,48
+Dehydroacetic acid,Semicarbazide HCl,-1.70812106153e-05,36,63
+Dehydroacetic acid,Mitoxantrone,-0.000185500672833,36,80
+Halazone,Dopamine HCl,-6.51299051378e-05,39,59
+Halazone,Pilocarpine nitrate,-6.56552328911e-05,39,96
+Dirithromycin,Belinostat,-0.000170358964863,45,48
+Belinostat,Mitoxantrone,0.00180368451316,48,80
+Belinostat,Pizotifen,-0.000200044100655,48,99
+Benzyl benzoate,Enoxacin,-0.000212435198977,50,71
+Vortioxetine HBr,Pilocarpine nitrate,-0.000280202069965,56,96
+Vortioxetine HBr,Pizotifen,-2.46390579642e-05,56,99
+Semicarbazide HCl,Enoxacin,-0.000158744173351,63,71
+Semicarbazide HCl,Vincristine,-8.32605618152e-05,63,91
+Disodium monofluorophosphate,Sodium Phenylbutyrate,1.57255759948e-05,65,70
+Sodium Phenylbutyrate,Cisplatin,-1.04290981011e-05,70,74
+Sodium Phenylbutyrate,Mianserin HCl,-0.000225706181683,70,75
+Enoxacin,Mianserin HCl,-0.000140770983479,71,75
+Cisplatin,Pizotifen,-0.000374760519987,74,99
+Mitoxantrone,Pilocarpine nitrate,-6.28689912558e-05,80,96
+Vincristine,Diprophylline,-0.000132232225718,91,92

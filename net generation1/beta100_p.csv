@@ -1,0 +1,23 @@
+from,to,weight,fromn,ton
+Fusidine,Clorsulon,0.00271831235958,1,17
+Noradrenaline bitartrate,Dirithromycin,-0.014546694767,3,45
+Noradrenaline bitartrate,Belinostat,-0.0140361855567,3,48
+Noradrenaline bitartrate,Mitoxantrone,-0.00848336171324,3,80
+Aceclofenac,Mianserin HCl,-0.00203937187185,5,75
+Thiamine HCl,Cisplatin,-0.00869480108041,14,74
+Birch-Me,Enoxacin,-0.00974195973968,19,71
+Bortezomib,Sodium Phenylbutyrate,-0.0198188210366,23,70
+Etoposide,Belinostat,-0.00239047797456,26,48
+Nebivolol HCl,Pizotifen,-0.0168481599692,31,99
+Dehydroacetic acid,Halazone,-0.0210861568653,36,39
+Halazone,Vincristine,-0.00647594972923,39,91
+Halazone,Diprophylline,-0.0057377223066,39,92
+Belinostat,Vortioxetine HBr,-0.00579106115647,48,56
+Benzyl benzoate,Semicarbazide HCl,-0.00188810042929,50,63
+Dichlorisone Acetate,Mitoxantrone,-0.0020265893496,54,80
+Dopamine HCl,Mitoxantrone,-0.0311797930882,59,80
+Semicarbazide HCl,Mitoxantrone,-0.0094207183915,63,80
+Semicarbazide HCl,Pilocarpine nitrate,-0.0214883799314,63,96
+Disodium monofluorophosphate,Pilocarpine nitrate,-0.00514659588358,65,96
+Cisplatin,Pilocarpine nitrate,-0.00542766716203,74,96
+Mitoxantrone,Pizotifen,-0.000652202973176,80,99

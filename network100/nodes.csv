@@ -1,4 +1,4 @@
-id,drugbankid,Pathways,cas
+id,drugbankid,Pathways_new,cas
 Disodium monofluorophosphate,DB02348,Enzyme,10163-15-2
 Docetaxel,DB01248,Cell Cycle/Checkpoint,114977-28-5
 Benzyl benzoate,DB00676,Others,120-51-4
@@ -7,11 +7,11 @@ Sulfamerazine,DB01581,Microbiology & Virology,127-79-7
 Quinine,DB00468,Others,130-95-0
 Pimecrolimus,DB00337,Others,137071-32-0
 Zanamivir,DB00558,Microbiology & Virology,139110-80-8
-Nystatin (Fungicidin),DB00646,Microbiology & Virology,1400-61-9
+Nystatin,DB00646,Microbiology & Virology,1400-61-9
 Carmustine,DB00262,DNA Damage/DNA Repair,154-93-8
 Cisplatin,DB00515,DNA Damage/DNA Repair,15663-27-1
 Sodium Phenylbutyrate,DB06819,Chromatin/Epigenetic,1716-12-7
-Bortezomib (PS-341),DB00188,Proteases/Proteasome,179324-69-7
+Bortezomib,DB00188,Proteases/Proteasome,179324-69-7
 Tinidazole,DB00911,Microbiology & Virology,19387-91-8
 Vardenafil HCl Trihydrate,DB00862,Metabolism,224785-90-4
 Lapatinib,DB01259,Tyrosine Kinase/Adaptors,231277-92-2
@@ -31,7 +31,7 @@ Probenecid,DB01032,Membrane Transporter/Ion Channel,57-66-9
 Chlorothiazide,DB00880,Metabolism,58-94-6
 Bifonazole,DB04794,Microbiology & Virology,60628-96-8
 Dirithromycin,DB00954,Microbiology & Virology,62013-04-1
-Mitoxantrone Hydrochloride,DB01204,DNA Damage/DNA Repair,65271-80-9
+Mitoxantrone,DB01204,DNA Damage/DNA Repair,65271-80-9
 Terconazole,DB00251,Microbiology & Virology,67915-31-5
 Maltose,DB03323,Others,69-79-4
 Fusidine,DB02703,Microbiology & Virology,6990-06-3

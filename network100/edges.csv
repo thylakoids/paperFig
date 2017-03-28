@@ -2,7 +2,7 @@ from,to
 Azelaic acid,Docetaxel
 Azelaic acid,Paclitaxel
 Quinine,Aceclofenac
-Quinine,Bortezomib (PS-341)
+Quinine,Bortezomib
 Quinine,Chlorothiazide
 Quinine,Cisplatin
 Quinine,Docetaxel
@@ -13,7 +13,7 @@ Quinine,Fusidine
 Quinine,Lapatinib
 Quinine,Methyldopa
 Quinine,Minoxidil
-Quinine,Mitoxantrone Hydrochloride
+Quinine,Mitoxantrone
 Quinine,Octreotide Acetate
 Quinine,Paclitaxel
 Quinine,Probenecid
@@ -24,7 +24,7 @@ Quinine,Vardenafil HCl Trihydrate
 Quinine,Vincristine
 Quinine,Vincristine
 Pimecrolimus,Aceclofenac
-Pimecrolimus,Bortezomib (PS-341)
+Pimecrolimus,Bortezomib
 Pimecrolimus,Carmustine
 Pimecrolimus,Chlorothiazide
 Pimecrolimus,Cisplatin
@@ -33,7 +33,7 @@ Pimecrolimus,Enoxacin
 Pimecrolimus,Etidronate
 Pimecrolimus,Etoposide
 Pimecrolimus,Fusidine
-Pimecrolimus,Mitoxantrone Hydrochloride
+Pimecrolimus,Mitoxantrone
 Pimecrolimus,Nepafenac
 Pimecrolimus,Paclitaxel
 Pimecrolimus,Probenecid
@@ -41,50 +41,50 @@ Pimecrolimus,Rifabutin
 Pimecrolimus,Sorafenib
 Pimecrolimus,Tretinoin
 Pimecrolimus,Vincristine
-Nystatin (Fungicidin),Docetaxel
-Nystatin (Fungicidin),Rifabutin
-Carmustine,Bortezomib (PS-341)
+Nystatin,Docetaxel
+Nystatin,Rifabutin
+Carmustine,Bortezomib
 Carmustine,Docetaxel
 Carmustine,Paclitaxel
 Carmustine,Pimecrolimus
 Sodium Phenylbutyrate,Docetaxel
 Sodium Phenylbutyrate,Paclitaxel
 Sodium Phenylbutyrate,Probenecid
-Bortezomib (PS-341),Carmustine
-Bortezomib (PS-341),Chlorothiazide
-Bortezomib (PS-341),Docetaxel
-Bortezomib (PS-341),Vitamin D2
-Bortezomib (PS-341),Etoposide
-Bortezomib (PS-341),Fusidine
-Bortezomib (PS-341),Lapatinib
-Bortezomib (PS-341),Methyldopa
-Bortezomib (PS-341),Minoxidil
-Bortezomib (PS-341),Paclitaxel
-Bortezomib (PS-341),Pimecrolimus
-Bortezomib (PS-341),Pyrazinamide
-Bortezomib (PS-341),Quinine
-Bortezomib (PS-341),Rifabutin
-Bortezomib (PS-341),Sorafenib
-Bortezomib (PS-341),Tinidazole
-Bortezomib (PS-341),Tretinoin
-Bortezomib (PS-341),Vardenafil HCl Trihydrate
-Bortezomib (PS-341),Vincristine
-Tinidazole,Bortezomib (PS-341)
+Bortezomib,Carmustine
+Bortezomib,Chlorothiazide
+Bortezomib,Docetaxel
+Bortezomib,Vitamin D2
+Bortezomib,Etoposide
+Bortezomib,Fusidine
+Bortezomib,Lapatinib
+Bortezomib,Methyldopa
+Bortezomib,Minoxidil
+Bortezomib,Paclitaxel
+Bortezomib,Pimecrolimus
+Bortezomib,Pyrazinamide
+Bortezomib,Quinine
+Bortezomib,Rifabutin
+Bortezomib,Sorafenib
+Bortezomib,Tinidazole
+Bortezomib,Tretinoin
+Bortezomib,Vardenafil HCl Trihydrate
+Bortezomib,Vincristine
+Tinidazole,Bortezomib
 Tinidazole,Fusidine
 Tinidazole,Rifabutin
-Vardenafil HCl Trihydrate,Bortezomib (PS-341)
+Vardenafil HCl Trihydrate,Bortezomib
 Vardenafil HCl Trihydrate,Chlorothiazide
 Vardenafil HCl Trihydrate,Fusidine
 Vardenafil HCl Trihydrate,Methyldopa
 Vardenafil HCl Trihydrate,Minoxidil
 Vardenafil HCl Trihydrate,Quinine
 Vardenafil HCl Trihydrate,Rifabutin
-Lapatinib,Bortezomib (PS-341)
+Lapatinib,Bortezomib
 Lapatinib,Cisplatin
 Lapatinib,Docetaxel
 Lapatinib,Etoposide
 Lapatinib,Fusidine
-Lapatinib,Mitoxantrone Hydrochloride
+Lapatinib,Mitoxantrone
 Lapatinib,Paclitaxel
 Lapatinib,Quinine
 Lapatinib,Rifabutin
@@ -97,13 +97,13 @@ Etidronate,Aceclofenac
 Etidronate,Nepafenac
 Etidronate,Pimecrolimus
 Sorafenib,Aceclofenac
-Sorafenib,Bortezomib (PS-341)
+Sorafenib,Bortezomib
 Sorafenib,Cisplatin
 Sorafenib,Docetaxel
 Sorafenib,Etoposide
 Sorafenib,Fusidine
 Sorafenib,Lapatinib
-Sorafenib,Mitoxantrone Hydrochloride
+Sorafenib,Mitoxantrone
 Sorafenib,Paclitaxel
 Sorafenib,Pimecrolimus
 Sorafenib,Probenecid
@@ -112,7 +112,7 @@ Sorafenib,Rifabutin
 Sorafenib,Tretinoin
 Sorafenib,Vincristine
 Sorafenib,Vincristine
-Tretinoin,Bortezomib (PS-341)
+Tretinoin,Bortezomib
 Tretinoin,Chlorothiazide
 Tretinoin,Docetaxel
 Tretinoin,Fusidine
@@ -125,7 +125,7 @@ Tretinoin,Quinine
 Tretinoin,Rifabutin
 Tretinoin,Sorafenib
 Paclitaxel,Azelaic acid
-Paclitaxel,Bortezomib (PS-341)
+Paclitaxel,Bortezomib
 Paclitaxel,Carmustine
 Paclitaxel,Chlorothiazide
 Paclitaxel,Cisplatin
@@ -136,7 +136,7 @@ Paclitaxel,Fusidine
 Paclitaxel,Lapatinib
 Paclitaxel,Methyldopa
 Paclitaxel,Minoxidil
-Paclitaxel,Mitoxantrone Hydrochloride
+Paclitaxel,Mitoxantrone
 Paclitaxel,Octreotide Acetate
 Paclitaxel,Pimecrolimus
 Paclitaxel,Probenecid
@@ -147,12 +147,12 @@ Paclitaxel,Sorafenib
 Paclitaxel,Tretinoin
 Paclitaxel,Vincristine
 Paclitaxel,Vincristine
-Etoposide,Bortezomib (PS-341)
+Etoposide,Bortezomib
 Etoposide,Cisplatin
 Etoposide,Docetaxel
 Etoposide,Fusidine
 Etoposide,Lapatinib
-Etoposide,Mitoxantrone Hydrochloride
+Etoposide,Mitoxantrone
 Etoposide,Paclitaxel
 Etoposide,Pimecrolimus
 Etoposide,Probenecid
@@ -161,7 +161,7 @@ Etoposide,Rifabutin
 Etoposide,Sorafenib
 Etoposide,Vincristine
 Etoposide,Vincristine
-Minoxidil,Bortezomib (PS-341)
+Minoxidil,Bortezomib
 Minoxidil,Chlorothiazide
 Minoxidil,Methyldopa
 Minoxidil,Paclitaxel
@@ -173,11 +173,11 @@ Cephradine,Probenecid
 Diprophylline,Enoxacin
 Diprophylline,Probenecid
 Diprophylline,Quinine
-Vitamin D2,Bortezomib (PS-341)
+Vitamin D2,Bortezomib
 Vitamin D2,Chlorothiazide
 Vitamin D2,Fusidine
 Vitamin D2,Rifabutin
-Methyldopa,Bortezomib (PS-341)
+Methyldopa,Bortezomib
 Methyldopa,Chlorothiazide
 Methyldopa,Minoxidil
 Methyldopa,Octreotide Acetate
@@ -185,14 +185,14 @@ Methyldopa,Paclitaxel
 Methyldopa,Quinine
 Methyldopa,Tretinoin
 Methyldopa,Vardenafil HCl Trihydrate
-Vincristine,Bortezomib (PS-341)
+Vincristine,Bortezomib
 Vincristine,Cisplatin
 Vincristine,Docetaxel
 Vincristine,Etoposide
 Vincristine,Etoposide
 Vincristine,Fusidine
 Vincristine,Lapatinib
-Vincristine,Mitoxantrone Hydrochloride
+Vincristine,Mitoxantrone
 Vincristine,Paclitaxel
 Vincristine,Paclitaxel
 Vincristine,Pimecrolimus
@@ -211,7 +211,7 @@ Probenecid,Diprophylline
 Probenecid,Enoxacin
 Probenecid,Etoposide
 Probenecid,Minoxidil
-Probenecid,Mitoxantrone Hydrochloride
+Probenecid,Mitoxantrone
 Probenecid,Nepafenac
 Probenecid,Paclitaxel
 Probenecid,Pimecrolimus
@@ -220,7 +220,7 @@ Probenecid,Sodium Phenylbutyrate
 Probenecid,Sorafenib
 Probenecid,Vincristine
 Chlorothiazide,Aceclofenac
-Chlorothiazide,Bortezomib (PS-341)
+Chlorothiazide,Bortezomib
 Chlorothiazide,Vitamin D2
 Chlorothiazide,Methyldopa
 Chlorothiazide,Minoxidil
@@ -232,19 +232,19 @@ Chlorothiazide,Tretinoin
 Chlorothiazide,Vardenafil HCl Trihydrate
 Bifonazole,Docetaxel
 Bifonazole,Rifabutin
-Mitoxantrone Hydrochloride,Cisplatin
-Mitoxantrone Hydrochloride,Docetaxel
-Mitoxantrone Hydrochloride,Etoposide
-Mitoxantrone Hydrochloride,Lapatinib
-Mitoxantrone Hydrochloride,Paclitaxel
-Mitoxantrone Hydrochloride,Pimecrolimus
-Mitoxantrone Hydrochloride,Probenecid
-Mitoxantrone Hydrochloride,Quinine
-Mitoxantrone Hydrochloride,Sorafenib
-Mitoxantrone Hydrochloride,Vincristine
+Mitoxantrone,Cisplatin
+Mitoxantrone,Docetaxel
+Mitoxantrone,Etoposide
+Mitoxantrone,Lapatinib
+Mitoxantrone,Paclitaxel
+Mitoxantrone,Pimecrolimus
+Mitoxantrone,Probenecid
+Mitoxantrone,Quinine
+Mitoxantrone,Sorafenib
+Mitoxantrone,Vincristine
 Terconazole,Docetaxel
 Terconazole,Rifabutin
-Fusidine,Bortezomib (PS-341)
+Fusidine,Bortezomib
 Fusidine,Docetaxel
 Fusidine,Vitamin D2
 Fusidine,Etoposide
@@ -260,14 +260,14 @@ Fusidine,Tretinoin
 Fusidine,Vardenafil HCl Trihydrate
 Fusidine,Vincristine
 Rifabutin,Bifonazole
-Rifabutin,Bortezomib (PS-341)
+Rifabutin,Bortezomib
 Rifabutin,Docetaxel
 Rifabutin,Econazole
 Rifabutin,Vitamin D2
 Rifabutin,Etoposide
 Rifabutin,Fusidine
 Rifabutin,Lapatinib
-Rifabutin,Nystatin (Fungicidin)
+Rifabutin,Nystatin
 Rifabutin,Paclitaxel
 Rifabutin,Pimecrolimus
 Rifabutin,Pyrazinamide
@@ -307,6 +307,6 @@ Aceclofenac,Pimecrolimus
 Aceclofenac,Probenecid
 Aceclofenac,Quinine
 Aceclofenac,Sorafenib
-Pyrazinamide,Bortezomib (PS-341)
+Pyrazinamide,Bortezomib
 Pyrazinamide,Fusidine
 Pyrazinamide,Rifabutin
